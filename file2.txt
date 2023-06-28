@@ -1,2 +1,2 @@
 hi there
-this is file 2 this is some dummy text
+this is file 2 and changed this is some dummy text 
